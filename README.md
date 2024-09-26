@@ -23,7 +23,7 @@ This project is inspired by the scroll animations grid example from [tympanus.ne
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/scroll-animations-grid.git
+   git clone https://github.com/kor1998/Thomas-Vance-clone-.git
    cd scroll-animations-grid
    ```
 
