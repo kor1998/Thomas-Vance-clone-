@@ -1,0 +1,17 @@
+.grid>div{
+  grid-row: var(--r);
+  grid-column: var(--c);
+}
+
+.os-theme-dark .os-scrollbar-handle {
+  
+  background-color:rgb(157, 157, 157); 
+}
+
+.os-theme-dark .os-scrollbar-handle:hover {
+  background-color: #787878;
+}
+
+.os-theme-dark .os-scrollbar-track {
+  background-color: transparent; 
+}
